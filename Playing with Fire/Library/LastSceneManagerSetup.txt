@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Fire On Hands Controller.unity
+  isLoaded: 1
+  isActive: 1
